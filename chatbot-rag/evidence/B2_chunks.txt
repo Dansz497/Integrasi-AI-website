@@ -1,0 +1,37 @@
+Jumlah chunk: 9
+
+[D1] (221 karakter)
+PANDUAN LAYANAN MAHASISWA - DOKUMEN CONTOH PRAKTIKUM
+Dokumen ini adalah dokumen dummy untuk pembelajaran RAG. Seluruh aturan dan jadwal di bawah hanya berlaku pada skenario latihan, bukan kebijakan re
+
+[D2] (271 karakter)
+LAYANAN SURAT AKTIF KULIAH
+Permohonan surat aktif kuliah diajukan melalui portal Akademik Demo. Mahasiswa mengunggah kartu mahasiswa dan mengisi tujuan penggunaan surat. Dalam dokumen contoh ini, wakt
+
+[D3] (283 karakter)
+LAYANAN PEMINJAMAN LABORATORIUM
+Peminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiata
+
+[D4] (267 karakter)
+JAM OPERASIONAL LABORATORIUM
+Pada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib men
+
+[D5] (292 karakter)
+PENDAFTARAN KONSULTASI AKADEMIK
+Konsultasi dengan dosen pembimbing akademik dijadwalkan melalui email institusi. Mahasiswa wajib menyertakan nama, nomor induk mahasiswa, topik konsultasi, dan dua pili
+
+[D6] (275 karakter)
+PROSEDUR LAPORAN KERUSAKAN
+Apabila menemukan komputer laboratorium bermasalah, mahasiswa mencatat nomor perangkat, waktu kejadian, dan deskripsi gejala. Laporan disampaikan melalui formulir Helpdesk D
+
+[D7] (287 karakter)
+ATURAN PEMINJAMAN PERANGKAT
+Peminjaman perangkat untuk kegiatan pembelajaran memerlukan persetujuan petugas inventaris. Lama peminjaman maksimal dua hari kalender dan perpanjangan harus diajukan sebel
+
+[D8] (270 karakter)
+KEGIATAN PENGENALAN SISTEM
+Mahasiswa baru wajib mengikuti sesi pengenalan sistem akademik sebelum menggunakan portal Akademik Demo. Sesi latihan dilaksanakan pada pekan pertama perkuliahan. Tanggal pa
+
+[D9] (236 karakter)
+KONTAK PERTANYAAN AKADEMIK
+Untuk pertanyaan tentang administrasi akademik dalam studi kasus latihan, mahasiswa diarahkan ke email akademik-demo@example.org. Alamat ini hanya contoh dan tidak boleh dig

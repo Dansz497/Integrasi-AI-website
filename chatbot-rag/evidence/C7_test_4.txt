@@ -1,0 +1,19 @@
+Chatbot Layanan Mahasiswa
+
+Demo pembelajaran RAG dengan dokumen contoh, bukan layanan resmi.
+
+Halo! Tanyakan layanan yang ada pada dokumen latihan.
+Berapa hari proses surat aktif kuliah?
+Proses surat aktif kuliah memerlukan waktu dua hari kerja setelah berkas dinyatakan lengkap [D2].
+Chunk diambil: D2, D5, D1. Periksa rujukan pada jawaban.
+Kapan laboratorium pemrograman buka?
+Laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00 [D4].
+Chunk diambil: D4, D3, D6. Periksa rujukan pada jawaban.
+Berapa nominal denda telat pinjam perangkat?
+Denda keterlambatan tidak ditentukan dalam dokumen contoh ini [D7].
+Chunk diambil: D7, D3, D4. Periksa rujukan pada jawaban.
+Apa warna cat dinding laboratorium?
+Informasi tersebut tidak ditemukan dalam dokumen praktik.
+Chunk diambil: D4, D3, D6. Periksa rujukan pada jawaban.
+Pertanyaan Anda
+Kirim

@@ -1,0 +1,3 @@
+PASS: dokumen menghasilkan 9 chunk
+PASS: 9 vektor valid, dimensi 3072
+PASS: health, validasi input, metode HTTP

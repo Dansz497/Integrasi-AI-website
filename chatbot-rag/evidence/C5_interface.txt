@@ -1,0 +1,7 @@
+Chatbot Layanan Mahasiswa
+
+Demo pembelajaran RAG dengan dokumen contoh, bukan layanan resmi.
+
+Halo! Tanyakan layanan yang ada pada dokumen latihan.
+Pertanyaan Anda
+Kirim

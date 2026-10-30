@@ -1,0 +1,6 @@
+Uji komunikasi Laragon - Flask
+PertanyaanKirim ke Flask
+{
+  "answer": "Balasan uji Flask: Halo dari Laragon",
+  "sources": []
+}

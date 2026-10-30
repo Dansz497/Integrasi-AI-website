@@ -1,0 +1,13 @@
+Pertanyaan: Bagaimana melaporkan komputer laboratorium yang rusak?
+
+[D6] Skor kemiripan: 0.828
+PROSEDUR LAPORAN KERUSAKAN
+Apabila menemukan komputer laboratorium bermasalah, mahasiswa mencatat nomor perangkat, waktu kejadian, dan deskripsi gejala. Laporan disampaikan melalui formulir Helpdesk Demo. Mahasiswa tidak diperkenankan membo
+
+[D3] Skor kemiripan: 0.678
+LAYANAN PEMINJAMAN LABORATORIUM
+Peminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiatan yang berlangsung setelah pukul 17.00 h
+
+[D4] Skor kemiripan: 0.675
+JAM OPERASIONAL LABORATORIUM
+Pada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib mengembalikan perangkat ke tempat semula se

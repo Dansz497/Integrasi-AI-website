@@ -1,0 +1,10 @@
+Uji komunikasi Laragon - Flask
+PertanyaanKirim ke Flask
+{
+  "answer": "Proses surat aktif kuliah adalah dua hari kerja setelah berkas dinyatakan lengkap [D2].",
+  "sources": [
+    "D2",
+    "D5",
+    "D1"
+  ]
+}

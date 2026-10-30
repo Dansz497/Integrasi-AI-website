@@ -1,0 +1,1 @@
+Berkas c2_api_app.py dan c3_index.php adalah arsip tahap simulasi, bukan versi final. Laragon menggantikan XAMPP.

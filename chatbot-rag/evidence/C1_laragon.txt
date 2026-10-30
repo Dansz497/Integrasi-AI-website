@@ -1,0 +1,3 @@
+Hello World Laragon
+
+PHP pada Laragon berhasil berjalan.

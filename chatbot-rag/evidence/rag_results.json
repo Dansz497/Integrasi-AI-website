@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Bagaimana cara melaporkan komputer laboratorium yang rusak?",
+    "answer": "Catat nomor perangkat, waktu kejadian, dan deskripsi gejala, lalu sampaikan laporan melalui formulir Helpdesk Demo [D6]. Mahasiswa dilarang membongkar perangkat tanpa izin teknisi [D6].",
+    "sources": [
+      {
+        "id": 6,
+        "text": "PROSEDUR LAPORAN KERUSAKAN\nApabila menemukan komputer laboratorium bermasalah, mahasiswa mencatat nomor perangkat, waktu kejadian, dan deskripsi gejala. Laporan disampaikan melalui formulir Helpdesk Demo. Mahasiswa tidak diperkenankan membongkar perangkat tanpa izin teknisi.",
+        "score": 0.828
+      },
+      {
+        "id": 3,
+        "text": "LAYANAN PEMINJAMAN LABORATORIUM\nPeminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiatan yang berlangsung setelah pukul 17.00 harus disertai persetujuan dosen pendamping.",
+        "score": 0.677
+      },
+      {
+        "id": 4,
+        "text": "JAM OPERASIONAL LABORATORIUM\nPada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib mengembalikan perangkat ke tempat semula sebelum meninggalkan ruangan.",
+        "score": 0.671
+      }
+    ]
+  },
+  {
+    "question": "Berapa lama surat aktif kuliah diproses?",
+    "answer": "Waktu penyelesaian surat aktif kuliah adalah dua hari kerja setelah berkas dinyatakan lengkap [D2].",
+    "sources": [
+      {
+        "id": 2,
+        "text": "LAYANAN SURAT AKTIF KULIAH\nPermohonan surat aktif kuliah diajukan melalui portal Akademik Demo. Mahasiswa mengunggah kartu mahasiswa dan mengisi tujuan penggunaan surat. Dalam dokumen contoh ini, waktu penyelesaian adalah dua hari kerja setelah berkas dinyatakan lengkap.",
+        "score": 0.824
+      },
+      {
+        "id": 5,
+        "text": "PENDAFTARAN KONSULTASI AKADEMIK\nKonsultasi dengan dosen pembimbing akademik dijadwalkan melalui email institusi. Mahasiswa wajib menyertakan nama, nomor induk mahasiswa, topik konsultasi, dan dua pilihan waktu. Jawaban konfirmasi diberikan paling lambat tiga hari kerja pada skenario latihan.",
+        "score": 0.693
+      },
+      {
+        "id": 1,
+        "text": "PANDUAN LAYANAN MAHASISWA - DOKUMEN CONTOH PRAKTIKUM\nDokumen ini adalah dokumen dummy untuk pembelajaran RAG. Seluruh aturan dan jadwal di bawah hanya berlaku pada skenario latihan, bukan kebijakan resmi perguruan tinggi.",
+        "score": 0.676
+      }
+    ]
+  },
+  {
+    "question": "Bagaimana cara meminjam laboratorium?",
+    "answer": "Peminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan [D3]. Kegiatan setelah pukul 17.00 harus disertai persetujuan dosen pendamping [D3].",
+    "sources": [
+      {
+        "id": 3,
+        "text": "LAYANAN PEMINJAMAN LABORATORIUM\nPeminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiatan yang berlangsung setelah pukul 17.00 harus disertai persetujuan dosen pendamping.",
+        "score": 0.78
+      },
+      {
+        "id": 7,
+        "text": "ATURAN PEMINJAMAN PERANGKAT\nPeminjaman perangkat untuk kegiatan pembelajaran memerlukan persetujuan petugas inventaris. Lama peminjaman maksimal dua hari kalender dan perpanjangan harus diajukan sebelum masa pinjam berakhir. Denda keterlambatan tidak ditentukan dalam dokumen contoh ini.",
+        "score": 0.716
+      },
+      {
+        "id": 4,
+        "text": "JAM OPERASIONAL LABORATORIUM\nPada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib mengembalikan perangkat ke tempat semula sebelum meninggalkan ruangan.",
+        "score": 0.714
+      }
+    ]
+  },
+  {
+    "question": "Berapa nominal denda keterlambatan?",
+    "answer": "Informasi tersebut tidak ditemukan dalam dokumen praktik. [D7]",
+    "sources": [
+      {
+        "id": 7,
+        "text": "ATURAN PEMINJAMAN PERANGKAT\nPeminjaman perangkat untuk kegiatan pembelajaran memerlukan persetujuan petugas inventaris. Lama peminjaman maksimal dua hari kalender dan perpanjangan harus diajukan sebelum masa pinjam berakhir. Denda keterlambatan tidak ditentukan dalam dokumen contoh ini.",
+        "score": 0.7
+      },
+      {
+        "id": 3,
+        "text": "LAYANAN PEMINJAMAN LABORATORIUM\nPeminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiatan yang berlangsung setelah pukul 17.00 harus disertai persetujuan dosen pendamping.",
+        "score": 0.654
+      },
+      {
+        "id": 4,
+        "text": "JAM OPERASIONAL LABORATORIUM\nPada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib mengembalikan perangkat ke tempat semula sebelum meninggalkan ruangan.",
+        "score": 0.638
+      }
+    ]
+  },
+  {
+    "question": "Apa warna dinding laboratorium?",
+    "answer": "Informasi tersebut tidak ditemukan dalam dokumen praktik.",
+    "sources": [
+      {
+        "id": 4,
+        "text": "JAM OPERASIONAL LABORATORIUM\nPada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib mengembalikan perangkat ke tempat semula sebelum meninggalkan ruangan.",
+        "score": 0.662
+      },
+      {
+        "id": 3,
+        "text": "LAYANAN PEMINJAMAN LABORATORIUM\nPeminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiatan yang berlangsung setelah pukul 17.00 harus disertai persetujuan dosen pendamping.",
+        "score": 0.648
+      },
+      {
+        "id": 6,
+        "text": "PROSEDUR LAPORAN KERUSAKAN\nApabila menemukan komputer laboratorium bermasalah, mahasiswa mencatat nomor perangkat, waktu kejadian, dan deskripsi gejala. Laporan disampaikan melalui formulir Helpdesk Demo. Mahasiswa tidak diperkenankan membongkar perangkat tanpa izin teknisi.",
+        "score": 0.642
+      }
+    ]
+  }
+]

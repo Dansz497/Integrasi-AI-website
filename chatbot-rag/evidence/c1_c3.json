@@ -1,0 +1,11 @@
+{
+  "health": {
+    "service": "Flask Chatbot API",
+    "status": "ok"
+  },
+  "hello": "<!doctype html><html lang=\"id\"><meta charset=\"utf-8\"><title>Tes Laragon</title><h1>Hello World Laragon</h1><p>PHP pada Laragon berhasil berjalan.</p></html>\n",
+  "proxy": {
+    "answer": "Balasan uji Flask: Halo dari Laragon",
+    "sources": []
+  }
+}
